@@ -1,0 +1,29 @@
+h1 {
+    font-family: Arial;
+    background-color: aqua;
+    /*text-align: center;*/
+    text-transform: uppercase; /*mayuscula*/
+}
+h2 {
+    font-style: italic;
+
+}
+
+p{
+    color: red;
+}
+.destacados{
+    font-size: 25px;
+    font-weight: bold;
+}
+#caja{
+    background-color: yellow;
+    /*width: 50%;*/
+    width: 200px;
+    color: green;
+    padding: 20px; /*agranda extremos de la caja contenedore de todos lados*/
+    box-sizing: border-box;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+

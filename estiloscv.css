@@ -1,0 +1,22 @@
+p{
+    color: red;
+    font-family: Arial;
+}
+.serieclase{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+
+.peliclase{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+#caja{
+    color: beige;
+    background-color: rebeccapurple;
+    width: 200px;
+    padding: 10px;
+}
+#caja h3 {
+    color: coral;
+}
